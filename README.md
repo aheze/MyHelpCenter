@@ -1,3 +1,7 @@
+# This is a repository created from the SupportDocs template. Ignore all files in the `main` branch.
+
+---
+
 ![SupportDocs Logo](https://raw.githubusercontent.com/aheze/SupportDocs/main/Assets/SupportDocsSmall.png)
 
 ![SupportDocs Header](https://raw.githubusercontent.com/aheze/SupportDocs/main/Assets/HeaderImage.png)
